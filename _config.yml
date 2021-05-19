@@ -1,8 +1,8 @@
 # Site settings 配置站点
-title: '廖柯宇的独立博客'
-description: '昵称悟空，千禧一代，前端开发者/伪极客/灵魂摄影师，热爱技术&设计。很高兴能在这里与你分享我对技术和生活的思考。'
-keyword: '廖柯宇, 廖柯宇的独立博客, 廖柯宇的博客, 前端, 前端开发, 前端博客, javascript, vuejs, nodejs, 设计'
-url: '' # your host
+title: '庄涛的独立博客'
+description: '昵称leo，热爱网络安全和渗透。很高兴能在这里与你分享我对技术和生活的思考。'
+keyword: '庄涛, 庄涛的独立博客, 庄涛的博客, 网络完全, web安全, 渗透, javascript, php, ctf,'
+url: 'https://github.com/1024861435/102486135.github.io' # your host
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
 # 在服务器上建站时，如果你不需要子域名，请将这一格留空
@@ -12,7 +12,7 @@ url: '' # your host
 # 例如，当你的域名是 "kaeyleo.github.io"  时，这个 url 需要留空
 # but if your created a repo named "myblog", and the site is "kaeyleo.github.io/myblog", change baseurl to '/myblog'
 # 但是，如果你创建了一个叫 "myblog" 的网站，此时网址会变成 "kaeyleo.github.io/myblog" ，这时再将 baseurl 设置为 '/myblog'
-baseurl: ''
+baseurl: 'https://github.com/102486135.github.io'
 
 # Navigation links
 nav:
@@ -24,9 +24,9 @@ footer:
   since: 2017
 
 # Author 配置博主信息
-author: '廖柯宇'
-nickname: '悟空'
-bio: '前端开发者，热爱技术&设计，简单乐观爱创造'
+author: '庄涛'
+nickname: 'leo'
+bio: 热爱网络安全和渗透，简单乐观爱创造'
 avatar: '/assets/img/profile.png'
 
 # Search
