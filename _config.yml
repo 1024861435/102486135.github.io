@@ -33,7 +33,7 @@ avatar: '/assets/img/tx.jpg'
 search: true
 
 # Night mode
-nightMode: true
+nightMode: false
 
 # Comments 评论功能
 comments:
