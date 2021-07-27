@@ -46,7 +46,7 @@ tags: jekyll 前端开发 设计
 
 > 抓包改session,得到flag
 
-![](https://1024861435.github.io/assets/img/flask session伪造1.png)
+![](https://1024861435.github.io/assets/img/flask session伪造10.png)
 
 
 
