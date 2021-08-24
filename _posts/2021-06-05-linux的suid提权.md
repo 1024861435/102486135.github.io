@@ -5,7 +5,7 @@ subtitle: 'SUID提权'
 date: 2021-06-05
 categories: 技术
 cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-theme-h2o-postcover.jpg'
-tags: jekyll 前端开发 设计
+tags: 网络安全
 ---
 ### linux SUID提权
 > 1.下载环境

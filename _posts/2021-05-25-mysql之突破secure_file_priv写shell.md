@@ -5,7 +5,7 @@ subtitle: ''
 date: 2021-05-25
 categories: 技术
 cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-theme-h2o-postcover.jpg'
-tags: jekyll 前端开发 设计
+tags: 网络安全
 ---
 ### mysql之突破secure_file_priv写shell
 在某些情况下，当我们进入了一个网站的phpMyAdmin时，想通过select into outfile来写shell，但是通常都会报错。

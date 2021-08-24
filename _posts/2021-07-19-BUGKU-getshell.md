@@ -5,7 +5,7 @@ subtitle: 'BUGKU-getshell'
 date: 2021-07-19
 categories: 技术
 cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-theme-h2o-postcover.jpg'
-tags: jekyll 前端开发 设计
+tags: 网络安全 bugku刷题
 ---
 ### BUGKU-getshell
 
